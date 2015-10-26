@@ -4,3 +4,6 @@ Mostly, this technology uses cookies to track users and will display anoying ads
 
 ## How can we disable the re-targeting technology?
   - You must clean up your cookies in your web-browsers or you mobile-phones
+  
+## How can we disable the re-targeting technology based on canvas fingerprinting?
+  - Please contact me
